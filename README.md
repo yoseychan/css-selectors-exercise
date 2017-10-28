@@ -1,1 +1,1 @@
-"# css-selectors-exercise" 
+A simple excercise for the css selectors.
